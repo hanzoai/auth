@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="auth" width="880"></p>
+
 This is our ZITADEL [Next.js](https://nextjs.org/) template. It shows how to authenticate as a user and retrieve user information from the OIDC endpoint.
 
 ## Deploy your own
